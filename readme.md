@@ -62,14 +62,18 @@ Welcome to the Cybersecurity Roadmap! This guide will help you navigate your jou
 
 Here are different job roles you can pursue in cybersecurity:
 
-1. Network Security Engineer
-2. Penetration Tester (Ethical Hacker)
-3. Incident Responder
-4. Security Analyst
-5. Security Consultant
-6. Cryptographer
-7. Security Auditor
-8. Security Architect
+| Job Role                 | Average Salary (PHP) | Average Salary (USD) (Converted to PHP) | Average Salary (AUD) (Converted to PHP) |
+|--------------------------|----------------------|----------------------------------------|----------------------------------------|
+| Network Security Engineer| ₱900,000             | ₱4,500,000                           | ₱3,150,000                           |
+| Penetration Tester       | ₱800,000             | ₱4,000,000                           | ₱2,800,000                           |
+| Incident Responder       | ₱950,000             | ₱4,750,000                           | ₱3,325,000                           |
+| Security Analyst         | ₱750,000             | ₱3,750,000                           | ₱2,625,000                           |
+| Security Consultant      | ₱1,100,000           | ₱5,500,000                           | ₱3,850,000                           |
+| Cryptographer            | ₱1,000,000           | ₱5,000,000                           | ₱3,500,000                           |
+| Security Auditor         | ₱850,000             | ₱4,250,000                           | ₱2,975,000                           |
+| Security Architect       | ₱1,200,000           | ₱6,000,000                           | ₱4,200,000                           |
+
+(Note: Average salaries are approximate and can vary based on experience, location, and other factors.)
 
 ## Improving Cybersecurity
 
