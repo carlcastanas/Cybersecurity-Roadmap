@@ -33,11 +33,17 @@ Welcome to the Cybersecurity Roadmap! This guide will help you navigate your jou
 
 - Choose a Cybersecurity Path
   - [Explore Cybersecurity Specializations](https://www.cyberdegrees.org/jobs/)
+
 - Certification Path (Based on Specialization)
   - Network Security: [CompTIA Security+](https://www.comptia.org/certifications/security)
   - Penetration Testing: [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
   - Incident Response: [Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih), [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
-  - ...
+  - Security Analysis: [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism)
+  - Security Consulting: [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism), [Certified Information Systems Auditor (CISA)](https://www.isaca.org/certifications/cisa)
+  - Cryptography: [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
+  - Security Auditing: [Certified Information Systems Auditor (CISA)](https://www.isaca.org/certifications/cisa), [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
+  - Security Architecture: [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism)
+
 
 ## Practical Experience
 
