@@ -52,12 +52,12 @@ Welcome to the Cybersecurity Roadmap! This guide will help you navigate your jou
 
 ## YouTube Channels
 
-- [Cybrary](https://www.youtube.com/user/CybraryIT)
+- [Cybrary](https://www.youtube.com/@CybraryIt)
 - [Hak5](https://www.youtube.com/user/Hak5Darren)
 - [Professor Messer](https://www.youtube.com/user/professormesser)
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)
-
+- [Freecodecamp Cybersecurity](https://www.youtube.com/results?search_query=free+code+camp+cyber+security+)
 ## Job Roles
 
 Here are different job roles you can pursue in cybersecurity:
