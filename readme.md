@@ -18,16 +18,16 @@ Welcome to the Cybersecurity Roadmap! This guide will help you navigate your jou
 
 - Learn the Basics of Networking and Operating Systems
   - [Networking Basics](https://www.coursera.org/learn/computer-networking)
-  - [Operating System Fundamentals](https://www.udemy.com/course/operating-system-fundamentals/)
+  - [Operating System Fundamentals](https://www.udemy.com/courses/search/?src=ukw&q=operating-system-fundamentals)
 - Introduction to Cybersecurity Concepts
-  - [Introduction to Cyber Security](https://www.cybrary.it/course/introduction-cyber-security/)
+  - [Introduction to Cyber Security](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity)
 
 ## Fundamentals
 
 - Security Fundamentals and Best Practices
-  - [Cybersecurity Fundamentals](https://www.pluralsight.com/courses/cybersecurity-fundamentals)
+  - [Cybersecurity Fundamentals](https://www.simplilearn.com/learn-cyber-security-basics-skillup)
 - Basic Security Tools and Technologies
-  - [Cybersecurity Tools](https://www.youtube.com/watch?v=hf-Ut6H7o2c)
+  - [Cybersecurity Tools](https://www.youtube.com/watch?v=SW6AE76Pi50)
 
 ## Specialization
 
