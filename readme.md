@@ -70,20 +70,24 @@ Welcome to the Cybersecurity Roadmap! This guide will help you navigate your jou
 - [Freecodecamp Cybersecurity](https://www.youtube.com/results?search_query=free+code+camp+cyber+security+)
 ## Job Roles
 
-Here are different job roles you can pursue in cybersecurity:
+# Cybersecurity Job Roles and Salaries
 
-| Job Role                 | Average Salary (PHP) | Average Salary (USD) (Converted to PHP) | Average Salary (AUD) (Converted to PHP) |
-|--------------------------|----------------------|----------------------------------------|----------------------------------------|
-| Network Security Engineer| ₱900,000             | ₱4,500,000                           | ₱3,150,000                           |
-| Penetration Tester       | ₱800,000             | ₱4,000,000                           | ₱2,800,000                           |
-| Incident Responder       | ₱950,000             | ₱4,750,000                           | ₱3,325,000                           |
-| Security Analyst         | ₱750,000             | ₱3,750,000                           | ₱2,625,000                           |
-| Security Consultant      | ₱1,100,000           | ₱5,500,000                           | ₱3,850,000                           |
-| Cryptographer            | ₱1,000,000           | ₱5,000,000                           | ₱3,500,000                           |
-| Security Auditor         | ₱850,000             | ₱4,250,000                           | ₱2,975,000                           |
-| Security Architect       | ₱1,200,000           | ₱6,000,000                           | ₱4,200,000                           |
+Here are different job roles you can pursue in cybersecurity, along with their average salaries in PHP, USD, and AUD:
 
-(Note: Average salaries are approximate and can vary based on experience, location, and other factors.)
+| Job Role                 | Average Salary (PHP) | Average Salary (USD) | Average Salary (USD) (Converted to PHP) | Average Salary (AUD) | Average Salary (AUD) (Converted to PHP) |
+|--------------------------|----------------------|----------------------|----------------------------------------|----------------------|----------------------------------------|
+| Network Security Engineer| ₱900,000             | $80,000              | ₱4,500,000                           | AU$60,000            | ₱3,150,000                           |
+| Penetration Tester       | ₱800,000             | $70,000              | ₱4,000,000                           | AU$53,000            | ₱2,800,000                           |
+| Incident Responder       | ₱950,000             | $85,000              | ₱4,750,000                           | AU$63,000            | ₱3,325,000                           |
+| Security Analyst         | ₱750,000             | $67,000              | ₱3,750,000                           | AU$50,000            | ₱2,625,000                           |
+| Security Consultant      | ₱1,100,000           | $100,000             | ₱5,500,000                           | AU$70,000            | ₱3,850,000                           |
+| Cryptographer            | ₱1,000,000           | $90,000              | ₱5,000,000                           | AU$65,000            | ₱3,500,000                           |
+| Security Auditor         | ₱850,000             | $75,000              | ₱4,250,000                           | AU$55,000            | ₱2,975,000                           |
+| Security Architect       | ₱1,200,000           | $110,000             | ₱6,000,000                           | AU$80,000            | ₱4,200,000                           |
+
+## Notes:
+- USD and AUD salaries are approximate and have been converted to PHP based on recent exchange rates.
+- Salaries vary depending on experience, location, and company size.
 
 ## Improving Cybersecurity
 
