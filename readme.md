@@ -154,29 +154,89 @@ Here are some essential tips and resources to land your first cybersecurity job!
 
 ---
 
-## 📅 Weekly Study Schedule
+## 📅 Weekly Study Schedule for Cybersecurity Learners
 
 | Day       | Focus Area                   | Activity                                            | Study Resource Links                                          |
 |-----------|------------------------------|-----------------------------------------------------|--------------------------------------------------------------|
-| **Monday**    | Fundamentals                | Read about networking basics                         | [Cisco Networking Basics](https://www.cisco.com/c/en/us/training-events/training-certifications/training-certifications/what-is-networking.html) |
+| **Monday**    | **Fundamentals**                | Read about networking basics                         | [Cisco Networking Basics](https://www.cisco.com/c/en/us/training-events/training-certifications/training-certifications/what-is-networking.html) |
 |           |                              | Complete a networking simulation                     | [Packet Tracer](https://www.netacad.com/courses/packet-tracer)  |
-| **Tuesday**   | Cybersecurity Basics        | Study core cybersecurity principles                  | [Cybrary - Cybersecurity Fundamentals](https://www.cybrary.it/course/cybersecurity-fundamentals/)  |
+| **Tuesday**   | **Cybersecurity Basics**        | Study core cybersecurity principles                  | [Cybrary - Cybersecurity Fundamentals](https://www.cybrary.it/course/cybersecurity-fundamentals/)  |
 |           |                              | Take notes and review key concepts                  |                                                              |
-| **Wednesday** | Threats & Vulnerabilities    | Learn about common cyber threats                    | [NIST - Cybersecurity Framework](https://www.nist.gov/cyberframework)  |
+| **Wednesday** | **Threats & Vulnerabilities**    | Learn about common cyber threats                    | [NIST - Cybersecurity Framework](https://www.nist.gov/cyberframework)  |
 |           |                              | Analyze case studies of recent breaches             | [Krebs on Security](https://krebsonsecurity.com/)           |
-| **Thursday**  | Tools & Technologies       | Explore popular cybersecurity tools                  | [OWASP Top Ten](https://owasp.org/www-project-top-ten/)    |
+| **Thursday**  | **Tools & Technologies**       | Explore popular cybersecurity tools                  | [OWASP Top Ten](https://owasp.org/www-project-top-ten/)    |
 |           |                              | Hands-on practice with a tool (e.g., Wireshark)    | [Wireshark Official](https://www.wireshark.org/)            |
-| **Friday**    | Practical Skills           | Work on a personal cybersecurity project             | [TryHackMe](https://tryhackme.com/)                         |
+| **Friday**    | **Practical Skills**           | Work on a personal cybersecurity project             | [TryHackMe](https://tryhackme.com/)                         |
 |           |                              | Join online capture-the-flag (CTF) competitions     | [CTFtime](https://ctftime.org/)                             |
-| **Saturday**  | Networking & Collaboration  | Attend a webinar or online workshop                  | [Cybersecurity Webinars](https://www.isc2.org/News-and-Events/Webinars) |
+| **Saturday**  | **Networking & Collaboration**  | Attend a webinar or online workshop                  | [Cybersecurity Webinars](https://www.isc2.org/News-and-Events/Webinars) |
 |           |                              | Network with professionals on LinkedIn              | [LinkedIn](https://www.linkedin.com)                         |
-| **Sunday**    | Review & Reflect           | Review the week’s learning                          |                                                              |
+| **Sunday**    | **Review & Reflect**           | Review the week’s learning                          |                                                              |
 |           |                              | Take a practice quiz or assessment                   | [Cybrary Practice Tests](https://www.cybrary.it/course/cybersecurity-fundamentals/) |
 
-### Additional Study Resources
-- **Coursera**: [Cybersecurity Specializations](https://www.coursera.org/browse/information-technology/cybersecurity)
-- **edX**: [Cybersecurity MicroMasters Programs](https://www.edx.org/learn/cybersecurity)
-- **YouTube**: [Cybersecurity Tutorials](https://www.youtube.com/results?search_query=cybersecurity+tutorials)
+---
+
+## 📚 Additional Training Sessions
+
+1. **Introduction to Cybersecurity**
+   - Duration: 4 weeks
+   - **Platform**: [Coursera - Introduction to Cybersecurity](https://www.coursera.org/learn/intro-cybersecurity)
+
+2. **Certified Ethical Hacker (CEH)**
+   - Duration: 5 weeks
+   - **Platform**: [Udemy - Certified Ethical Hacker](https://www.udemy.com/course/certified-ethical-hacker-ceh/)
+
+3. **CompTIA Security+ Certification**
+   - Duration: 6 weeks
+   - **Platform**: [CompTIA Security+ Training](https://www.comptia.org/certifications/security)
+
+4. **Incident Response & Handling**
+   - Duration: 3 weeks
+   - **Platform**: [Cybrary - Incident Response](https://www.cybrary.it/course/incident-response-and-handling/)
+
+5. **Network Security Fundamentals**
+   - Duration: 5 weeks
+   - **Platform**: [edX - Network Security](https://www.edx.org/course/network-security)
+
+6. **Cloud Security**
+   - Duration: 4 weeks
+   - **Platform**: [Cloud Security Alliance - Cloud Security Training](https://cloudsecurityalliance.org/education/training/)
+
+---
+
+### 🔍 Further Study Resources
+
+- **Books**: 
+  - *“The Web Application Hacker's Handbook”* by Dafydd Stuttard and Marcus Pinto
+  - *“Cybersecurity Essentials”* by Charles J. Brooks
+  - *“Hacking: The Art of Exploitation”* by Jon Erickson
+  - *“Blue Team Handbook: Incident Response Edition”* by Don Murdoch
+  - *“Metasploit: The Penetration Tester's Guide”* by David Kennedy et al.
+  - *“The Cybersecurity Playbook”* by Allison Cerra
+
+- **Podcasts**: 
+  - [CyberWire Daily](https://thecyberwire.com/podcasts/daily-briefing/)
+  - [Darknet Diaries](https://darknetdiaries.com/)
+  - [The Security Ledger](https://securityledger.com/)
+  - [Security Now](https://www.grc.com/securitynow.htm)
+  - [Risky Business](https://risky.business/)
+
+- **YouTube Channels**: 
+  - [Professor Messer](https://www.youtube.com/user/professormesser)
+  - [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
+  - [Hak5](https://www.youtube.com/user/Hak5Darren)
+  - [CyberMentor](https://www.youtube.com/c/TheCyberMentor)
+  - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+  - [IppSec](https://www.youtube.com/c/IppSec)
+
+- **Online Courses**: 
+  - [Udemy Cybersecurity Courses](https://www.udemy.com/courses/search/?q=cybersecurity)
+  - [Pluralsight Cybersecurity Path](https://www.pluralsight.com/paths/cybersecurity)
+  - [Coursera Cybersecurity Specializations](https://www.coursera.org/browse/information-technology/cybersecurity)
+
+- **Websites and Blogs**: 
+  - [Krebs on Security](https://krebsonsecurity.com/)
+  - [Schneier on Security](https://www.schneier.com/)
+  - [Security Weekly](https://securityweekly.com/)
 
 ---
 
