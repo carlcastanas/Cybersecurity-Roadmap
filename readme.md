@@ -346,24 +346,31 @@ Here are some essential tips and resources to land your first cybersecurity job!
 
 ---
 
-## 📅 Weekly Study Schedule for Cybersecurity Learners
+## 📅 6-Month Cybersecurity Roadmap
 
-| Day       | Focus Area                   | Activity                                            | Study Resource Links                                          |
-|-----------|------------------------------|-----------------------------------------------------|--------------------------------------------------------------|
-| **Monday**    | **Fundamentals**                | Read about networking basics                         | [Cisco Networking Basics](https://www.cisco.com/c/en/us/training-events/training-certifications/training-certifications/what-is-networking.html) |
-|           |                              | Complete a networking simulation                     | [Packet Tracer](https://www.netacad.com/courses/packet-tracer)  |
-| **Tuesday**   | **Cybersecurity Basics**        | Study core cybersecurity principles                  | [Cybrary - Cybersecurity Fundamentals](https://www.cybrary.it/course/cybersecurity-fundamentals/)  |
-|           |                              | Take notes and review key concepts                  |                                                              |
-| **Wednesday** | **Threats & Vulnerabilities**    | Learn about common cyber threats                    | [NIST - Cybersecurity Framework](https://www.nist.gov/cyberframework)  |
-|           |                              | Analyze case studies of recent breaches             | [Krebs on Security](https://krebsonsecurity.com/)           |
-| **Thursday**  | **Tools & Technologies**       | Explore popular cybersecurity tools                  | [OWASP Top Ten](https://owasp.org/www-project-top-ten/)    |
-|           |                              | Hands-on practice with a tool (e.g., Wireshark)    | [Wireshark Official](https://www.wireshark.org/)            |
-| **Friday**    | **Practical Skills**           | Work on a personal cybersecurity project             | [TryHackMe](https://tryhackme.com/)                         |
-|           |                              | Join online capture-the-flag (CTF) competitions     | [CTFtime](https://ctftime.org/)                             |
-| **Saturday**  | **Networking & Collaboration**  | Attend a webinar or online workshop                  | [Cybersecurity Webinars](https://www.isc2.org/News-and-Events/Webinars) |
-|           |                              | Network with professionals on LinkedIn              | [LinkedIn](https://www.linkedin.com)                         |
-| **Sunday**    | **Review & Reflect**           | Review the week’s learning                          |                                                              |
-|           |                              | Take a practice quiz or assessment                   | [Cybrary Practice Tests](https://www.cybrary.it/course/cybersecurity-fundamentals/) |
+> **Note:** This roadmap is a flexible guide. Feel free to adjust the focus areas and activities based on your career goals, interests, and prior knowledge. Everyone's journey in cybersecurity is unique!
+
+| Month      | Focus Area                   | Activity                                            | Study Resource Links                                          |
+|------------|------------------------------|-----------------------------------------------------|--------------------------------------------------------------|
+| **Month 1**    | **Fundamentals of Networking** | Read about networking basics                         | [Cisco Networking Basics](https://www.cisco.com/c/en/us/training-events/training-certifications/training-certifications/what-is-networking.html) |
+|            |                              | Complete a networking simulation                     | [Packet Tracer](https://www.netacad.com/courses/packet-tracer)  |
+|            |                              | Set up a small home network                          | [Networking Basics - Cybrary](https://www.cybrary.it/course/networking-fundamentals/) |
+| **Month 2**   | **Cybersecurity Principles**   | Study core cybersecurity principles                  | [Cybrary - Cybersecurity Fundamentals](https://www.cybrary.it/course/cybersecurity-fundamentals/)  |
+|            |                              | Take notes and review key concepts                  |                                                              |
+|            |                              | Explore the CIA triad (Confidentiality, Integrity, Availability) | [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) |
+| **Month 3**   | **Threats & Vulnerabilities**   | Learn about common cyber threats                    | [NIST - Cybersecurity Framework](https://www.nist.gov/cyberframework)  |
+|            |                              | Analyze case studies of recent breaches             | [Krebs on Security](https://krebsonsecurity.com/)           |
+|            |                              | Participate in online discussions about recent threats | [Cybersecurity Forums](https://www.cybersecurityforum.com/) |
+| **Month 4**   | **Tools & Technologies**        | Explore popular cybersecurity tools                  | [OWASP Top Ten](https://owasp.org/www-project-top-ten/)    |
+|            |                              | Hands-on practice with a tool (e.g., Wireshark)    | [Wireshark Official](https://www.wireshark.org/)            |
+|            |                              | Experiment with virtual machines                     | [VirtualBox](https://www.virtualbox.org/)                   |
+| **Month 5**   | **Practical Skills & Projects** | Work on a personal cybersecurity project             | [TryHackMe](https://tryhackme.com/)                         |
+|            |                              | Join online capture-the-flag (CTF) competitions     | [CTFtime](https://ctftime.org/)                             |
+|            |                              | Create a small web application with security features | [OWASP WebGoat](https://owasp.org/www/projects/webgoat/)   |
+| **Month 6**   | **Networking & Collaboration**   | Attend a webinar or online workshop                  | [Cybersecurity Webinars](https://www.isc2.org/News-and-Events/Webinars) |
+|            |                              | Network with professionals on LinkedIn              | [LinkedIn](https://www.linkedin.com)                         |
+|            |                              | Participate in community forums                      | [r/cybersecurity on Reddit](https://www.reddit.com/r/cybersecurity/) |
+|            |                              | Review the week’s learning and reflect on progress   |                                                              |
 
 ---
 
