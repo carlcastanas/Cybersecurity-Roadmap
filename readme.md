@@ -20,6 +20,7 @@ Welcome to the **Cybersecurity Roadmap**! 🎉 This guide is designed to help yo
 8. [🔐 Improving Cybersecurity Skills](#-improving-cybersecurity-skills)
 9. [💼 Finding a Job](#-finding-a-job)
 10. [📜 Certifications](#-certifications)
+11. [📅 Weekly Study Schedule](#-weekly-study-schedule)
 
 ---
 
@@ -153,6 +154,32 @@ Here are some essential tips and resources to land your first cybersecurity job!
 
 ---
 
+## 📅 Weekly Study Schedule
+
+| Day       | Focus Area                   | Activity                                            | Study Resource Links                                          |
+|-----------|------------------------------|-----------------------------------------------------|--------------------------------------------------------------|
+| **Monday**    | Fundamentals                | Read about networking basics                         | [Cisco Networking Basics](https://www.cisco.com/c/en/us/training-events/training-certifications/training-certifications/what-is-networking.html) |
+|           |                              | Complete a networking simulation                     | [Packet Tracer](https://www.netacad.com/courses/packet-tracer)  |
+| **Tuesday**   | Cybersecurity Basics        | Study core cybersecurity principles                  | [Cybrary - Cybersecurity Fundamentals](https://www.cybrary.it/course/cybersecurity-fundamentals/)  |
+|           |                              | Take notes and review key concepts                  |                                                              |
+| **Wednesday** | Threats & Vulnerabilities    | Learn about common cyber threats                    | [NIST - Cybersecurity Framework](https://www.nist.gov/cyberframework)  |
+|           |                              | Analyze case studies of recent breaches             | [Krebs on Security](https://krebsonsecurity.com/)           |
+| **Thursday**  | Tools & Technologies       | Explore popular cybersecurity tools                  | [OWASP Top Ten](https://owasp.org/www-project-top-ten/)    |
+|           |                              | Hands-on practice with a tool (e.g., Wireshark)    | [Wireshark Official](https://www.wireshark.org/)            |
+| **Friday**    | Practical Skills           | Work on a personal cybersecurity project             | [TryHackMe](https://tryhackme.com/)                         |
+|           |                              | Join online capture-the-flag (CTF) competitions     | [CTFtime](https://ctftime.org/)                             |
+| **Saturday**  | Networking & Collaboration  | Attend a webinar or online workshop                  | [Cybersecurity Webinars](https://www.isc2.org/News-and-Events/Webinars) |
+|           |                              | Network with professionals on LinkedIn              | [LinkedIn](https://www.linkedin.com)                         |
+| **Sunday**    | Review & Reflect           | Review the week’s learning                          |                                                              |
+|           |                              | Take a practice quiz or assessment                   | [Cybrary Practice Tests](https://www.cybrary.it/course/cybersecurity-fundamentals/) |
+
+### Additional Study Resources
+- **Coursera**: [Cybersecurity Specializations](https://www.coursera.org/browse/information-technology/cybersecurity)
+- **edX**: [Cybersecurity MicroMasters Programs](https://www.edx.org/learn/cybersecurity)
+- **YouTube**: [Cybersecurity Tutorials](https://www.youtube.com/results?search_query=cybersecurity+tutorials)
+
+---
+
 ## 📜 Certifications
 
 Cybersecurity certifications can boost your credibility, help you gain in-depth knowledge, and improve your job prospects.
@@ -227,7 +254,7 @@ Embarking on a career in cybersecurity requires more than just technical know-ho
 ---
 
 **Written and Maintained by Carl Andrew Castañas**  
-- I’m **Carl Andrew Castañas**, a **Software Engineer** who also digs deep into cybersecurity and network engineering. I love helping students who want to learn more about tech and giving them a hand wherever they need it. With a community of over 700k IT enthusiasts and a knack for creating tech content, I’m always up for connecting with others passionate about cybersecurity or just chatting about the latest in tech. Let’s connect!
+I’m **Carl Andrew Castañas**, a **Software Engineer** who also digs deep into cybersecurity and network engineering. I love helping students who want to learn more about tech and giving them a hand wherever they need it. With a community of over 700k IT enthusiasts and a knack for creating tech content, I’m always up for connecting with others passionate about cybersecurity or just chatting about the latest in tech. Let’s connect!
 
 - **GitHub**: [carlcastanas](https://github.com/carlcastanas)
 - **LinkedIn**: [Carl Andrew Castañas](https://linkedin.com/in/carlcastanas)
