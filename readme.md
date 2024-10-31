@@ -248,18 +248,37 @@ Expand your knowledge through tutorials and insights from cybersecurity experts.
 
 ## 💼 Job Roles
 
-The field of cybersecurity has diverse job roles to explore, each with distinct responsibilities. Here’s a look at popular roles and their average salaries in PHP, USD, and AUD:
+The field of cybersecurity has diverse job roles to explore, each with distinct responsibilities. Here’s a look at popular roles and their average salaries in PHP, USD, and AUD, along with sources for the information:
 
 | Job Role                 | Average Salary (PHP) | Average Salary (USD) | Average Salary (AUD) |
 |--------------------------|----------------------|-----------------------|-----------------------|
-| Network Security Engineer| ₱900,000             | $80,000              | AU$60,000             |
-| Penetration Tester       | ₱800,000             | $70,000              | AU$53,000             |
-| Incident Responder       | ₱950,000             | $85,000              | AU$63,000             |
-| Security Analyst         | ₱750,000             | $67,000              | AU$50,000             |
-| Security Consultant      | ₱1,100,000           | $100,000             | AU$70,000             |
-| Cryptographer            | ₱1,000,000           | $90,000              | AU$65,000             |
-| Security Auditor         | ₱850,000             | $75,000              | AU$55,000             |
-| Security Architect       | ₱1,200,000           | $110,000             | AU$80,000             |
+| Network Security Engineer | ₱900,000             | $80,000               | AU$60,000             |
+| Penetration Tester       | ₱800,000             | $70,000               | AU$53,000             |
+| Incident Responder       | ₱950,000             | $85,000               | AU$63,000             |
+| Security Analyst         | ₱750,000             | $67,000               | AU$50,000             |
+| Security Consultant      | ₱1,100,000           | $100,000              | AU$70,000             |
+| Cryptographer            | ₱1,000,000           | $90,000               | AU$65,000             |
+| Security Auditor         | ₱850,000             | $75,000               | AU$55,000             |
+| Security Architect       | ₱1,200,000           | $110,000              | AU$80,000             |
+| Chief Information Security Officer (CISO) | ₱2,000,000 | $180,000 | AU$130,000 |
+| Malware Analyst          | ₱950,000             | $85,000               | AU$63,000             |
+| Forensic Analyst         | ₱850,000             | $75,000               | AU$55,000             |
+| Risk Manager             | ₱1,300,000           | $115,000              | AU$85,000             |
+
+### Sources:
+- **Philippines**: 
+  - [PayScale - Cybersecurity Salaries in the Philippines](https://www.payscale.com/research/PH/Job=Information_Security_Analyst/Salary)
+  - [JobStreet - Cybersecurity Salaries](https://www.jobstreet.com.ph/en/job-search/cybersecurity-jobs/)
+  
+- **United States**:
+  - [Bureau of Labor Statistics (BLS) - Occupational Outlook Handbook](https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm)
+  - [Glassdoor - Cybersecurity Salaries](https://www.glassdoor.com/Salaries/us-cyber-security-salaries-SRCH_KO0,19.htm)
+
+- **Australia**:
+  - [Seek - Cyber Security Salaries](https://www.seek.com.au/salaries/cyber-security-salaries)
+  - [Payscale - Cybersecurity Salaries in Australia](https://www.payscale.com/research/AU/Job=Information_Security_Analyst/Salary)
+
+> **Note:** Salaries may vary based on experience, education, location, and the specific employer. It’s essential to research current market trends and adjust expectations accordingly.
 
 ---
 
