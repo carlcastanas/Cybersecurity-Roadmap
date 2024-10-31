@@ -484,12 +484,19 @@ Embarking on a career in cybersecurity requires more than just technical know-ho
 
 ---
 
-**Written and Maintained by carlcastanas**  
+# Written and Maintained by carlcastanas
 
-I’m **Carl Andrew Castañas**, a **Software Engineer** who also digs deep into cybersecurity and network engineering. I love helping students who want to learn more about tech and giving them a hand wherever they need it. With a community of over 700k IT enthusiasts and a knack for creating tech content, I’m always up for connecting with others passionate about cybersecurity or just chatting about the latest in tech. Let’s connect!
+## About Me
+I’m **Carl Andrew Castañas**, a passionate **Software Engineer** with a deep interest in **Cybersecurity** and **Network Engineering**. I enjoy helping students and tech enthusiasts expand their knowledge and skills in technology. With a community of over **700k IT enthusiasts**, I thrive on creating engaging tech content and connecting with others who share my passion for cybersecurity and the latest tech trends.
 
+## Connect with Me
 - **GitHub**: [carlcastanas](https://github.com/carlcastanas)
 - **LinkedIn**: [Carl Andrew Castañas](https://linkedin.com/in/carlcastanas)
 - **Email**: [cacastanas@gmail.com](mailto:cacastanas@gmail.com)
 
+## 🕒 Last Updated
+- **Timezone**: Moscow Standard Time (MSK) - UTC+3
+- **Last Updated**: [Date] (e.g., October 31, 2024)
+
 Happy learning, and stay safe online! 🎉
+
