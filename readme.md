@@ -1,173 +1,237 @@
-# Cybersecurity Roadmap
+# 🛡️ Cybersecurity Roadmap
 
-Welcome to the Cybersecurity Roadmap! This guide will help you navigate your journey into the world of cybersecurity.
+Welcome to the **Cybersecurity Roadmap**! 🎉 This guide is designed to help you navigate your journey into the exciting and ever-evolving field of cybersecurity, covering everything from foundational knowledge to practical experience and career tips. Let's dive in and build a secure world together! 🌐🔐
 
-[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/Cybersecurity-Roadmap/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/Cybersecurity-Roadmap/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Cybersecurity-Roadmap)](https://github.com/carlcastanas/Cybersecurity-Roadmap/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/Cybersecurity-Roadmap)](https://github.com/carlcastanas/Cybersecurity-Roadmap/network/members)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Cybersecurity-Roadmap)
 
-## Table of Contents
+---
 
-1. [Foundation](#foundation)
-2. [Fundamentals](#fundamentals)
-3. [Specialization](#specialization)
-4. [Practical Experience](#practical-experience)
-5. [Continuous Learning](#continuous-learning)
-6. [YouTube Channels](#youtube-channels)
-7. [Job Roles](#job-roles)
-8. [Improving Cybersecurity](#improving-cybersecurity)
-9. [Finding a Job](#finding-a-job)
+## 🗂️ Table of Contents
 
-## Foundation
+1. [🚀 Foundation](#-foundation)
+2. [🔎 Fundamentals](#-fundamentals)
+3. [🌐 Specialization](#-specialization)
+4. [💻 Practical Experience](#-practical-experience)
+5. [📚 Continuous Learning](#-continuous-learning)
+6. [📺 YouTube Channels](#-youtube-channels)
+7. [💼 Job Roles](#-job-roles)
+8. [🔐 Improving Cybersecurity Skills](#-improving-cybersecurity-skills)
+9. [💼 Finding a Job](#-finding-a-job)
+10. [📜 Certifications](#-certifications)
 
-- Learn the Basics of Networking and Operating Systems
-  - [Networking Basics](https://www.coursera.org/learn/computer-networking)
-  - [Operating System Fundamentals](https://www.udemy.com/courses/search/?src=ukw&q=operating-system-fundamentals)
-- Introduction to Cybersecurity Concepts
-  - [Introduction to Cyber Security](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity)
+---
 
-## Fundamentals
+## 🚀 Foundation
 
-- Security Fundamentals and Best Practices
-  - [Cybersecurity Fundamentals](https://www.simplilearn.com/learn-cyber-security-basics-skillup)
-- Basic Security Tools and Technologies
-  - [Cybersecurity Tools](https://www.youtube.com/watch?v=SW6AE76Pi50)
+Kickstart your cybersecurity journey with a strong foundation in networking and operating systems. These are the building blocks of understanding how systems communicate and interact, which is crucial for effective security practices.
 
-## Specialization
+- **Networking Basics** 🌐  
+  [Networking Basics - Coursera](https://www.coursera.org/learn/computer-networking)
+- **Operating Systems** 🖥️  
+  [Operating System Fundamentals - Udemy](https://www.udemy.com/courses/search/?src=ukw&q=operating-system-fundamentals)
+- **Introduction to Cybersecurity** 🔒  
+  [Introduction to Cybersecurity - Cybrary](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity)
 
-- Choose a Cybersecurity Path
-  - [Explore Cybersecurity Specializations](https://www.cyberdegrees.org/jobs/)
+---
 
-- Certification Path (Based on Specialization)
-  - Network Security: [CompTIA Security+](https://www.comptia.org/certifications/security)
-  - Penetration Testing: [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-  - Incident Response: [Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih), [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
-  - Security Analysis: [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism)
-  - Security Consulting: [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism), [Certified Information Systems Auditor (CISA)](https://www.isaca.org/certifications/cisa)
-  - Cryptography: [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
-  - Security Auditing: [Certified Information Systems Auditor (CISA)](https://www.isaca.org/certifications/cisa), [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
-  - Security Architecture: [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP), [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism)
+## 🔎 Fundamentals
 
+Build a solid foundation in cybersecurity fundamentals and learn about the best practices and essential tools used by professionals.
 
-## Practical Experience
+- **Security Fundamentals and Best Practices**  
+  [Cybersecurity Fundamentals - Simplilearn](https://www.simplilearn.com/learn-cyber-security-basics-skillup)
+- **Basic Security Tools and Technologies** 🔧  
+  [Cybersecurity Tools - YouTube](https://www.youtube.com/watch?v=SW6AE76Pi50)
 
-- Hands-On Labs and Projects
-  - [TryHackMe](https://tryhackme.com/)
-  - [Hack The Box](https://www.hackthebox.eu/)
+---
 
-## Continuous Learning
+## 🌐 Specialization
 
-- Stay Updated
-  - [Cybersecurity News](https://www.darkreading.com/)
+Cybersecurity offers various paths based on your interests and career goals. Here are some popular specializations and the certifications that can help you excel in each area.
 
-## YouTube Channels
+1. **Network Security** 🛡️  
+   - [CompTIA Security+](https://www.comptia.org/certifications/security)
+2. **Penetration Testing** 💻  
+   - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+3. **Incident Response** 🔍  
+   - [Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih)
+4. **Security Analysis** 📊  
+   - [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism)
+5. **Security Auditing and Compliance** 📝  
+   - [Certified Information Systems Auditor (CISA)](https://www.isaca.org/certifications/cisa)
+6. **Security Architecture** 🏛️  
+   - [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
 
-- [Cybrary](https://www.youtube.com/@CybraryIt)
-- [Hak5](https://www.youtube.com/user/Hak5Darren)
-- [Professor Messer](https://www.youtube.com/user/professormesser)
-- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
-- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
-- [Freecodecamp Cybersecurity](https://www.youtube.com/results?search_query=free+code+camp+cyber+security+)
-## Job Roles
+---
 
-# Cybersecurity Job Roles and Salaries
+## 💻 Practical Experience
 
-Here are different job roles you can pursue in cybersecurity, along with their average salaries in PHP, USD, and AUD:
+Get hands-on with cybersecurity tools and labs. Practical experience is key to understanding real-world threats and how to mitigate them.
 
-| Job Role                 | Average Salary (PHP) | Average Salary (USD) | Average Salary (USD) (Converted to PHP) | Average Salary (AUD) | Average Salary (AUD) (Converted to PHP) |
-|--------------------------|----------------------|----------------------|----------------------------------------|----------------------|----------------------------------------|
-| Network Security Engineer| ₱900,000             | $80,000              | ₱4,500,000                           | AU$60,000            | ₱3,150,000                           |
-| Penetration Tester       | ₱800,000             | $70,000              | ₱4,000,000                           | AU$53,000            | ₱2,800,000                           |
-| Incident Responder       | ₱950,000             | $85,000              | ₱4,750,000                           | AU$63,000            | ₱3,325,000                           |
-| Security Analyst         | ₱750,000             | $67,000              | ₱3,750,000                           | AU$50,000            | ₱2,625,000                           |
-| Security Consultant      | ₱1,100,000           | $100,000             | ₱5,500,000                           | AU$70,000            | ₱3,850,000                           |
-| Cryptographer            | ₱1,000,000           | $90,000              | ₱5,000,000                           | AU$65,000            | ₱3,500,000                           |
-| Security Auditor         | ₱850,000             | $75,000              | ₱4,250,000                           | AU$55,000            | ₱2,975,000                           |
-| Security Architect       | ₱1,200,000           | $110,000             | ₱6,000,000                           | AU$80,000            | ₱4,200,000                           |
+- **TryHackMe** 🔐  
+  [TryHackMe Labs](https://tryhackme.com/)
+- **Hack The Box** 🕵️  
+  [Hack The Box Labs](https://www.hackthebox.eu/)
 
-## Notes:
-- USD and AUD salaries are approximate and have been converted to PHP based on recent exchange rates.
-- Salaries vary depending on experience, location, and company size.
+---
 
-## Improving Cybersecurity
+## 📚 Continuous Learning
 
-- **Practice Secure Online Behavior**
-  - Be cautious while clicking on links or downloading attachments.
-  - Use strong and unique passwords for each account.
-  - Enable two-factor authentication whenever possible.
+The cybersecurity field changes quickly, so staying updated is essential! Here are some resources to keep you in the know.
 
-- **Keep Software Up to Date**
-  - Regularly update operating systems, applications, and antivirus software.
+- **Cybersecurity News** 📰  
+  [Dark Reading](https://www.darkreading.com/)
 
-- **Secure Your Network**
-  - Use strong encryption and change default router passwords.
-  - Enable a firewall to filter incoming and outgoing traffic.
+---
 
-## Finding a Job
+## 📺 YouTube Channels
 
-- **Build a Strong Online Presence**
-  - Create a LinkedIn profile showcasing your skills and experience.
-  - Contribute to cybersecurity forums and discussions to showcase your expertise.
+Expand your knowledge through tutorials and insights from cybersecurity experts.
 
-- **Networking**
-  - Attend cybersecurity conferences, workshops, and meetups.
-  - Connect with professionals in the field and learn about job opportunities.
+- [Cybrary](https://www.youtube.com/@CybraryIt)  
+- [Hak5](https://www.youtube.com/user/Hak5Darren)  
+- [Professor Messer](https://www.youtube.com/user/professormesser)  
+- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)  
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull)  
+- [Freecodecamp Cybersecurity](https://www.youtube.com/results?search_query=free+code+camp+cyber+security)
 
-- **Apply for Internships and Entry-Level Positions**
-  - Gain practical experience through internships to enhance your resume.
-  - Look for entry-level roles such as security analyst or junior penetration tester.
+---
 
-## Certifications
+## 💼 Job Roles
 
-Certifications can play a significant role in your cybersecurity career. Here are some certifications tailored for both landing your first job and upskilling:
+The field of cybersecurity has diverse job roles to explore, each with distinct responsibilities. Here’s a look at popular roles and their average salaries in PHP, USD, and AUD:
 
-### Certifications for Landing a Job:
+| Job Role                 | Average Salary (PHP) | Average Salary (USD) | Average Salary (AUD) |
+|--------------------------|----------------------|-----------------------|-----------------------|
+| Network Security Engineer| ₱900,000             | $80,000              | AU$60,000             |
+| Penetration Tester       | ₱800,000             | $70,000              | AU$53,000             |
+| Incident Responder       | ₱950,000             | $85,000              | AU$63,000             |
+| Security Analyst         | ₱750,000             | $67,000              | AU$50,000             |
+| Security Consultant      | ₱1,100,000           | $100,000             | AU$70,000             |
+| Cryptographer            | ₱1,000,000           | $90,000              | AU$65,000             |
+| Security Auditor         | ₱850,000             | $75,000              | AU$55,000             |
+| Security Architect       | ₱1,200,000           | $110,000             | AU$80,000             |
 
-- **CompTIA Security+**
-  - A foundational certification covering network security, cryptography, and security risk management.
-  - [Learn more](https://www.comptia.org/certifications/security)
+---
 
-- **Certified Information Systems Security Professional (CISSP)**
-  - An advanced certification focused on security architecture, engineering, and management.
-  - [Learn more](https://www.isc2.org/Certifications/CISSP)
+## 🔐 Improving Cybersecurity Skills
 
-- **Certified Ethical Hacker (CEH)**
-  - Designed for ethical hackers, this certification demonstrates knowledge of hacking tools and techniques.
-  - [Learn more](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+1. **Practice Secure Online Behavior** 🕵️  
+   - Avoid clicking on suspicious links or downloading unknown attachments.
+   - Use strong, unique passwords and enable two-factor authentication.
 
-### Certifications for Upskilling:
+2. **Regular Software Updates**  
+   - Keep operating systems, software, and antivirus tools up to date.
 
-- **Certified Cloud Security Professional (CCSP)**
-  - Focuses on cloud security, covering cloud concepts, architecture, governance, risk management, and compliance.
-  - [Learn more](https://www.isc2.org/Certifications/CCSP)
+3. **Network Security** 🛡️  
+   - Use strong encryption, change default router passwords, and enable a firewall.
 
-- **Certified Information Security Manager (CISM)**
-  - Emphasizes information risk management and governance, suitable for those interested in security policy and strategy.
-  - [Learn more](https://www.isaca.org/credentialing/cism)
+---
 
-- **Certified Incident Handler (GCIH)**
-  - Specializes in incident response and handling techniques.
-  - [Learn more](https://www.giac.org/certification/certified-incident-handler-gcih)
+## 💼 Finding a Job
 
-Remember, the certifications you pursue should align with your career goals and interests. They can not only enhance your knowledge but also make you a more attractive candidate in the job market and help you stay relevant in the field.
+Here are some essential tips and resources to land your first cybersecurity job!
 
+1. **Build Your Resume**  
+   - Showcase certifications, skills, and hands-on experience.
 
-- **Landing a Job in Cybersecurity: Tips and Tutorial**
+2. **Networking**  
+   - Attend cybersecurity events, conferences, and meetups to connect with professionals in the field.
 
-  - Tailor Your Resume: Highlight your skills, certifications, and any relevant experience. Emphasize your passion for cybersecurity and your commitment to ongoing learning.
+3. **Apply for Internships and Entry-Level Jobs**  
+   - Start with entry-level roles such as Security Analyst or Junior Penetration Tester.
 
-  - Showcase Your Projects: Include personal projects, lab exercises, and simulations in your portfolio. Demonstrating hands-on experience can impress employers.
+4. **Leverage Job Boards**  
+   - [CyberSecJobs](https://www.cybersecjobs.com/)  
+   - [InfoSec Jobs](https://www.infosec-jobs.com/)  
+   - [Glassdoor](https://www.glassdoor.com/)  
+   - [LinkedIn](https://www.linkedin.com/)  
+   - [Indeed](https://www.indeed.com/)  
+   - [JobStreet](https://www.jobstreet.com/)
 
-  - Networking Efforts: Attend industry events, webinars, and workshops. Build relationships with professionals in the field. These connections can lead to job referrals.
+---
 
-  - Prepare for Interviews: Research common cybersecurity interview questions and practice your responses. Emphasize your problem-solving skills, teamwork, and adaptability.
+## 📜 Certifications
 
-  - Stay Updated: Cybersecurity is ever-evolving. Stay current with the latest trends, vulnerabilities, and solutions. This knowledge can set you apart during interviews.
+Cybersecurity certifications can boost your credibility, help you gain in-depth knowledge, and improve your job prospects.
 
-  - Watch Tutorial: [Landing Your First Job in Cybersecurity](https://www.youtube.com/watch?v=R7VYJv3X_Ig)
-  - Watch Tutorial: [How to Land a Job in Cybersecurity](https://www.youtube.com/watch?v=ECuYSJ48BpE)
+### Landing Your First Job Certifications
 
-- **Job Boards and Websites**
-  - Check job boards like [CyberSecJobs](https://www.cybersecjobs.com/), [InfoSec Jobs](https://www.infosec-jobs.com/), [Glassdoor](https://www.glassdoor.com/), [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), and [JobStreet](https://www.jobstreet.com/).
+- **CompTIA Security+**  
+  [CompTIA Security+](https://www.comptia.org/certifications/security)
 
-Remember, cybersecurity is a dynamic field that requires continuous learning and adaptability. By following this roadmap, implementing these tips, and leveraging job search platforms, you'll be well on your way to a successful career in cybersecurity!
+- **Certified Information Systems Security Professional (CISSP)**  
+  [CISSP Certification](https://www.isc2.org/Certifications/CISSP)
+
+- **Certified Ethical Hacker (CEH)**  
+  [CEH Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+
+### Upskilling Certifications
+
+- **Certified Cloud Security Professional (CCSP)**  
+  [CCSP Certification](https://www.isc2.org/Certifications/CCSP)
+
+- **Certified Information Security Manager (CISM)**  
+  [CISM Certification](https://www.isaca.org/credentialing/cism)
+
+- **Certified Incident Handler (GCIH)**  
+  [GCIH Certification](https://www.giac.org/certification/certified-incident-handler-gcih)
+
+---
+
+## 📈 Tips for Success in Cybersecurity
+
+Embarking on a career in cybersecurity requires more than just technical know-how; it’s about building a mindset that prioritizes security, adaptability, and a willingness to learn. Here are some strategies to help you succeed in this fast-paced field.
+
+- **Build a Portfolio**  
+  Showcase your skills with hands-on projects like labs, simulations, and real-world scenarios. Your portfolio is a testament to your practical skills and problem-solving abilities. Include your work on platforms like [GitHub](https://github.com/) and create write-ups for penetration testing and incident response cases.
+
+- **Stay Updated** 🔄  
+  Cybersecurity is constantly evolving with new vulnerabilities and threat vectors emerging every day. Regularly follow reputable sources like [Dark Reading](https://www.darkreading.com/), [The Hacker News](https://thehackernews.com/), and cybersecurity podcasts to keep up with the latest trends, tools, and developments.
+
+- **Collaborate and Network** 🌐  
+  Networking is invaluable in cybersecurity. Join cybersecurity groups on LinkedIn, Reddit, or specialized forums, and attend conferences or webinars. Cybersecurity is a collaborative field, and networking not only opens doors for opportunities but also lets you learn from experienced professionals.
+
+- **Practice Analytical and Critical Thinking**  
+  Cultivating strong analytical skills is essential for cybersecurity roles, where you’ll often encounter complex problems requiring creative solutions. Consider regular practice with puzzles, logic games, and challenges on platforms like [Cybrary](https://www.cybrary.it/) and [TryHackMe](https://tryhackme.com/).
+
+- **Master Core Tools and Technologies** 🔧  
+  Being proficient in tools like Wireshark, Nmap, Metasploit, Burp Suite, and network firewalls is critical. Take time to master these tools and understand how they contribute to detecting, mitigating, and responding to threats.
+
+- **Gain Experience with Real-World Environments**  
+  Real-life cybersecurity is different from theory. Try to gain experience through internships, simulations, or volunteering for nonprofit organizations’ security initiatives. This exposure to real-world environments helps you understand common practices, tools, and challenges in cybersecurity.
+
+- **Invest in Soft Skills**  
+  Communication is crucial, especially when explaining technical vulnerabilities or security strategies to non-technical stakeholders. Building presentation skills, active listening, and concise writing will help you communicate more effectively in collaborative and client-facing roles.
+
+- **Seek a Mentor or Join Study Groups** 🧑‍🏫  
+  A mentor can guide you through career challenges, provide insights into the field, and share resources. Study groups offer support, different perspectives, and encouragement when preparing for certifications or working through complex topics.
+
+- **Focus on Continuous Learning and Certifications** 📜  
+  Cybersecurity is a field where constant learning is essential. Certifications like CompTIA Security+, CEH, and CISSP are respected in the industry and can significantly boost your career prospects. Pursue certifications that align with your career goals, and remember that each certification represents a commitment to personal growth and industry standards.
+
+- **Contribute to Open Source Projects** 🛠️  
+  Participating in open-source projects not only helps you practice your skills but also exposes you to new tools, codebases, and collaborative problem-solving. Sites like [GitHub](https://github.com/) and [GitLab](https://gitlab.com/) have numerous projects in need of cybersecurity expertise.
+
+- **Develop a Strong Ethical Foundation**  
+  Cybersecurity professionals must adhere to a high standard of ethics, as the field often requires access to sensitive information. Understand and commit to ethical principles to gain trust and respect in your work environment.
+
+- **Engage in Capture the Flag (CTF) Challenges** 🚩  
+  CTF challenges are an excellent way to test your skills in a competitive environment. Platforms like [Hack The Box](https://www.hackthebox.eu/) and [OverTheWire](https://overthewire.org/) provide challenges that simulate real-world security scenarios and help you learn from both successes and mistakes.
+
+- **Join Cybersecurity Communities**  
+  Engage with cybersecurity communities like OWASP, DefCon, or local cybersecurity meetups. Being active in these communities can provide you with insights into industry standards, new techniques, and innovations.
+
+---
+
+**Written and Maintained by Carl Andrew Castañas**  
+I’m **Carl Andrew Castañas**, a **Software Engineer** who also digs deep into cybersecurity and network engineering. I love helping students who want to learn more about tech and giving them a hand wherever they need it. With a community of over 700k IT enthusiasts and a knack for creating tech content, I’m always up for connecting with others passionate about cybersecurity or just chatting about the latest in tech. Let’s connect!
+
+- **GitHub**: [carlcastanas](https://github.com/carlcastanas)
+- **LinkedIn**: [Carl Andrew Castañas](https://linkedin.com/in/carlcastanas)
+- **Email**: [cacastanas@gmail.com](mailto:cacastanas@gmail.com)
+
+Happy learning, and stay safe online! 🎉
+
