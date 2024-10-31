@@ -30,10 +30,30 @@ Kickstart your cybersecurity journey with a strong foundation in networking and 
 
 - **Networking Basics** 🌐  
   [Networking Basics - Coursera](https://www.coursera.org/learn/computer-networking)
+  
 - **Operating Systems** 🖥️  
   [Operating System Fundamentals - Udemy](https://www.udemy.com/courses/search/?src=ukw&q=operating-system-fundamentals)
+
 - **Introduction to Cybersecurity** 🔒  
   [Introduction to Cybersecurity - Cybrary](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity)
+
+- **CompTIA Network+ Certification** 📜  
+  [CompTIA Network+ - Cybrary](https://www.cybrary.it/course/comptia-network-plus/)
+
+- **Linux Essentials** 🐧  
+  [Linux Essentials - Linux Academy](https://linuxacademy.com/course/linux-essentials/)
+
+- **Cisco Networking Academy** 🌍  
+  [Cisco Networking Academy](https://www.netacad.com/)
+
+- **TCP/IP Networking** 🌐  
+  [TCP/IP Networking - Pluralsight](https://www.pluralsight.com/courses/tcp-ip-networking)
+
+- **Security+ Certification Training** 🔐  
+  [CompTIA Security+ - Pluralsight](https://www.pluralsight.com/courses/comptia-security-plus-sy0-601)
+
+- **Virtualization Basics** 🌪️  
+  [Virtualization Basics - Udacity](https://www.udacity.com/course/intro-to-virtualization--ud788)
 
 ---
 
@@ -43,8 +63,27 @@ Build a solid foundation in cybersecurity fundamentals and learn about the best 
 
 - **Security Fundamentals and Best Practices**  
   [Cybersecurity Fundamentals - Simplilearn](https://www.simplilearn.com/learn-cyber-security-basics-skillup)
+  
 - **Basic Security Tools and Technologies** 🔧  
   [Cybersecurity Tools - YouTube](https://www.youtube.com/watch?v=SW6AE76Pi50)
+
+- **Introduction to Cybersecurity Tools** 🔍  
+  [Getting Started with Cybersecurity Tools - Coursera](https://www.coursera.org/learn/introduction-cybersecurity-tools)
+
+- **Cybersecurity Basics for Beginners** 🌐  
+  [Cybersecurity Basics - edX](https://www.edx.org/course/cybersecurity-basics)
+
+- **Introduction to Ethical Hacking** 🕵️‍♂️  
+  [Ethical Hacking Basics - Cybrary](https://www.cybrary.it/course/ethical-hacking/)
+
+- **Common Security Vulnerabilities** ⚠️  
+  [Understanding Common Vulnerabilities - OWASP](https://owasp.org/www-project-top-ten/)
+
+- **Cybersecurity Frameworks** 📏  
+  [Cybersecurity Framework Overview - NIST](https://www.nist.gov/cyberframework)
+
+- **Incident Response Fundamentals** 🚨  
+  [Incident Response Basics - Pluralsight](https://www.pluralsight.com/courses/incident-response-fundamentals)
 
 ---
 
@@ -53,17 +92,36 @@ Build a solid foundation in cybersecurity fundamentals and learn about the best 
 Cybersecurity offers various paths based on your interests and career goals. Here are some popular specializations and the certifications that can help you excel in each area.
 
 1. **Network Security** 🛡️  
-   - [CompTIA Security+](https://www.comptia.org/certifications/security)
+   - [CompTIA Security+](https://www.comptia.org/certifications/security)  
+   - [Cisco Certified CyberOps Associate](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyberops-associate.html)
+
 2. **Penetration Testing** 💻  
-   - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+   - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  
+   - [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/certification/oscp/)
+
 3. **Incident Response** 🔍  
-   - [Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih)
+   - [Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih)  
+   - [Certified Computer Security Incident Handler (CSIH)](https://www.eccouncil.org/programs/certified-computer-security-incident-handler-csih/)
+
 4. **Security Analysis** 📊  
-   - [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism)
+   - [Certified Information Security Manager (CISM)](https://www.isaca.org/certifications/cism)  
+   - [GIAC Security Analyst (GSA)](https://www.giac.org/certification/security-analyst-gsa)
+
 5. **Security Auditing and Compliance** 📝  
-   - [Certified Information Systems Auditor (CISA)](https://www.isaca.org/certifications/cisa)
+   - [Certified Information Systems Auditor (CISA)](https://www.isaca.org/certifications/cisa)  
+   - [ISO 27001 Lead Auditor Certification](https://www.pmg.com.au/training/iso-27001-lead-auditor-certification/)
+
 6. **Security Architecture** 🏛️  
-   - [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
+   - [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)  
+   - [Certified Information Security Architect (CISA)](https://www.isaca.org/certifications/cisa)
+
+7. **Cloud Security** ☁️  
+   - [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)  
+   - [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
+
+8. **Application Security** 📱  
+   - [Certified Application Security Engineer (CASE)](https://www.isc2.org/Certifications/CASE)  
+   - [GIAC Web Application Penetration Tester (GWAPT)](https://www.giac.org/certification/web-application-penetration-tester-gwapt)
 
 ---
 
@@ -72,18 +130,80 @@ Cybersecurity offers various paths based on your interests and career goals. Her
 Get hands-on with cybersecurity tools and labs. Practical experience is key to understanding real-world threats and how to mitigate them.
 
 - **TryHackMe** 🔐  
-  [TryHackMe Labs](https://tryhackme.com/)
+  [TryHackMe Labs](https://tryhackme.com/)  
+  Engage in interactive, guided labs that cover various cybersecurity topics and techniques.
+
 - **Hack The Box** 🕵️  
-  [Hack The Box Labs](https://www.hackthebox.eu/)
+  [Hack The Box Labs](https://www.hackthebox.eu/)  
+  Test your skills with a wide range of challenges that simulate real-world scenarios in a gamified environment.
+
+- **OverTheWire** ⚔️  
+  [OverTheWire Games](https://overthewire.org/wargames/)  
+  A series of wargames designed to help you learn and practice security concepts in a fun and engaging way.
+
+- **VulnHub** 🏴‍☠️  
+  [VulnHub](https://www.vulnhub.com/)  
+  Downloadable vulnerable virtual machines for practice in your own environment, allowing for in-depth exploration of security weaknesses.
+
+- **Cybrary** 📚  
+  [Cybrary Labs](https://www.cybrary.it/course/cybersecurity/)  
+  Offers hands-on labs and training in various cybersecurity domains, catering to both beginners and advanced learners.
+
+- **Red Teaming Toolkit** 🛠️  
+  [Red Team Tools](https://github.com/RedTeam-Tools/Red-Team-Toolkit)  
+  A compilation of open-source tools and resources to simulate real-world cyberattacks and improve defensive strategies.
+
+- **SANS Cyber Aces** 🎓  
+  [SANS Cyber Aces](https://www.cyberaces.org/)  
+  Free online courses that provide a solid introduction to cybersecurity, including hands-on labs and challenges.
+
+- **NetWars** 🎮  
+  [SANS NetWars](https://www.sans.org/netwars/)  
+  A hands-on, interactive competition where participants solve real-world cybersecurity challenges in a timed environment.
 
 ---
 
 ## 📚 Continuous Learning
 
-The cybersecurity field changes quickly, so staying updated is essential! Here are some resources to keep you in the know.
+The cybersecurity field changes quickly, so staying updated is essential! Here are some resources to keep you in the know:
 
 - **Cybersecurity News** 📰  
-  [Dark Reading](https://www.darkreading.com/)
+  [Dark Reading](https://www.darkreading.com/)  
+  Provides insights and updates on cybersecurity threats, trends, and solutions.
+
+- **Security Weekly** 📡  
+  [Security Weekly](https://securityweekly.com/)  
+  A podcast and news platform that covers various cybersecurity topics, interviews with industry leaders, and expert insights.
+
+- **Krebs on Security** 🔍  
+  [Krebs on Security](https://krebsonsecurity.com/)  
+  A blog by journalist Brian Krebs that offers deep dives into cybersecurity incidents and advice for staying secure.
+
+- **Threatpost** ⚠️  
+  [Threatpost](https://threatpost.com/)  
+  Offers up-to-date news and analysis on cybersecurity vulnerabilities, threats, and the latest research.
+
+- **Infosecurity Magazine** 📰  
+  [Infosecurity Magazine](https://www.infosecurity-magazine.com/)  
+  A source for the latest news, insights, and research on information security.
+
+- **CyberScoop** 🌐  
+  [CyberScoop](https://www.cyberscoop.com/)  
+  Covers news and events related to cybersecurity policy, technology, and trends in the industry.
+
+- **The Hacker News** 👨‍💻  
+  [The Hacker News](https://thehackernews.com/)  
+  Provides daily updates on cybersecurity incidents, hacking news, and tech trends.
+
+- **Reddit - Netsec** 🗨️  
+  [r/netsec](https://www.reddit.com/r/netsec/)  
+  A community for sharing news, articles, and discussions on information security topics.
+
+- **Twitter** 🐦  
+  Follow industry experts and organizations for real-time updates. Some accounts to consider:
+  - [@thegrugq](https://twitter.com/thegrugq) (Security Researcher)
+  - [@briankrebs](https://twitter.com/briankrebs) (Krebs on Security)
+  - [@DarkReading](https://twitter.com/DarkReading) (Dark Reading)
 
 ---
 
@@ -92,11 +212,37 @@ The cybersecurity field changes quickly, so staying updated is essential! Here a
 Expand your knowledge through tutorials and insights from cybersecurity experts.
 
 - [Cybrary](https://www.youtube.com/@CybraryIt)  
+  A comprehensive resource for IT and cybersecurity training.
+
 - [Hak5](https://www.youtube.com/user/Hak5Darren)  
+  Focuses on hacking and penetration testing techniques.
+
 - [Professor Messer](https://www.youtube.com/user/professormesser)  
+  Provides free training videos for CompTIA certifications.
+
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)  
+  Offers tutorials on ethical hacking and penetration testing.
+
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)  
-- [Freecodecamp Cybersecurity](https://www.youtube.com/results?search_query=free+code+camp+cyber+security)
+  Features hands-on security projects and challenges.
+
+- [FreeCodeCamp Cybersecurity](https://www.youtube.com/results?search_query=free+code+camp+cyber+security)  
+  A variety of courses on cybersecurity topics.
+
+- [NetworkChuck](https://www.youtube.com/c/NetworkChuck)  
+  Engaging tutorials on networking, cloud, and cybersecurity.
+
+- [Security Weekly](https://www.youtube.com/c/securityweekly)  
+  A series of discussions and interviews with cybersecurity professionals.
+
+- [Cybersecurity and IT Essentials](https://www.youtube.com/c/CybersecurityandITEssentials)  
+  Offers training videos focused on IT and cybersecurity essentials.
+
+- [The Art of Hacking](https://www.youtube.com/channel/UCzT3g6rBd2TXv4t2f4lBBkg)  
+  A channel dedicated to hacking tutorials and techniques.
+
+- [Chris Greer](https://www.youtube.com/c/ChrisGreerIT)  
+  Covers cybersecurity concepts, career tips, and practical advice.
 
 ---
 
@@ -122,12 +268,37 @@ The field of cybersecurity has diverse job roles to explore, each with distinct 
 1. **Practice Secure Online Behavior** 🕵️  
    - Avoid clicking on suspicious links or downloading unknown attachments.
    - Use strong, unique passwords and enable two-factor authentication.
+   - Be cautious about sharing personal information online.
 
 2. **Regular Software Updates**  
    - Keep operating systems, software, and antivirus tools up to date.
+   - Enable automatic updates when possible to ensure you receive the latest security patches.
 
 3. **Network Security** 🛡️  
-   - Use strong encryption, change default router passwords, and enable a firewall.
+   - Use strong encryption protocols (e.g., WPA3) for Wi-Fi networks.
+   - Change default router passwords and keep the router firmware updated.
+   - Enable a firewall to monitor and control incoming and outgoing network traffic.
+
+4. **Educate Yourself** 📚  
+   - Stay informed about the latest cybersecurity threats and trends through blogs, forums, and news sites.
+   - Participate in online courses or webinars focused on cybersecurity topics.
+
+5. **Utilize Security Tools** 🔧  
+   - Use VPNs (Virtual Private Networks) to encrypt your internet connection when accessing public Wi-Fi.
+   - Implement anti-malware software to protect against malicious attacks.
+   - Use password managers to securely store and manage your passwords.
+
+6. **Engage in Hands-On Practice** 💻  
+   - Participate in Capture The Flag (CTF) challenges to test your skills in a practical environment.
+   - Set up a home lab to experiment with different security tools and configurations.
+
+7. **Join Cybersecurity Communities** 🌐  
+   - Engage with online communities, forums, or local meetups to share knowledge and experiences.
+   - Networking with other cybersecurity enthusiasts can lead to valuable insights and opportunities.
+
+8. **Regularly Review and Audit** 🔍  
+   - Periodically review your security practices and policies to identify areas for improvement.
+   - Conduct regular security audits of your systems and networks to assess vulnerabilities.
 
 ---
 
@@ -137,20 +308,41 @@ Here are some essential tips and resources to land your first cybersecurity job!
 
 1. **Build Your Resume**  
    - Showcase certifications, skills, and hands-on experience.
+   - Tailor your resume for each application, highlighting relevant projects and accomplishments.
+   - Include soft skills like problem-solving, communication, and teamwork.
 
 2. **Networking**  
    - Attend cybersecurity events, conferences, and meetups to connect with professionals in the field.
+   - Join online forums and social media groups related to cybersecurity (e.g., Reddit, LinkedIn).
+   - Engage with professionals by asking questions and sharing insights to build relationships.
 
 3. **Apply for Internships and Entry-Level Jobs**  
    - Start with entry-level roles such as Security Analyst or Junior Penetration Tester.
+   - Look for internships, co-op programs, or volunteer opportunities to gain practical experience.
+   - Be open to roles in related fields like IT support or network administration to build relevant skills.
 
 4. **Leverage Job Boards**  
-   - [CyberSecJobs](https://www.cybersecjobs.com/)  
-   - [InfoSec Jobs](https://www.infosec-jobs.com/)  
-   - [Glassdoor](https://www.glassdoor.com/)  
-   - [LinkedIn](https://www.linkedin.com/)  
-   - [Indeed](https://www.indeed.com/)  
+   - [CyberSecJobs](https://www.cybersecjobs.com/)
+   - [InfoSec Jobs](https://www.infosec-jobs.com/)
+   - [Glassdoor](https://www.glassdoor.com/)
+   - [LinkedIn](https://www.linkedin.com/)
+   - [Indeed](https://www.indeed.com/)
    - [JobStreet](https://www.jobstreet.com/)
+   - [CyberJobs](https://www.cyberjobs.com/)
+   - [SimplyHired](https://www.simplyhired.com/)
+
+5. **Prepare for Interviews**  
+   - Research common interview questions for cybersecurity roles and practice your answers.
+   - Prepare to discuss your hands-on experience with tools and technologies relevant to the position.
+   - Showcase your problem-solving abilities through scenario-based questions or technical assessments.
+
+6. **Stay Persistent**  
+   - Don’t get discouraged by rejections; keep applying and improving your skills.
+   - Consider creating a personal blog or GitHub repository to share your projects and insights.
+
+7. **Utilize Social Media**  
+   - Follow industry leaders, companies, and groups on platforms like LinkedIn and Twitter for job postings and insights.
+   - Share relevant content and engage with others in the cybersecurity community to increase visibility.
 
 ---
 
@@ -172,71 +364,6 @@ Here are some essential tips and resources to land your first cybersecurity job!
 |           |                              | Network with professionals on LinkedIn              | [LinkedIn](https://www.linkedin.com)                         |
 | **Sunday**    | **Review & Reflect**           | Review the week’s learning                          |                                                              |
 |           |                              | Take a practice quiz or assessment                   | [Cybrary Practice Tests](https://www.cybrary.it/course/cybersecurity-fundamentals/) |
-
----
-
-## 📚 Additional Training Sessions
-
-1. **Introduction to Cybersecurity**
-   - Duration: 4 weeks
-   - **Platform**: [Coursera - Introduction to Cybersecurity](https://www.coursera.org/learn/intro-cybersecurity)
-
-2. **Certified Ethical Hacker (CEH)**
-   - Duration: 5 weeks
-   - **Platform**: [Udemy - Certified Ethical Hacker](https://www.udemy.com/course/certified-ethical-hacker-ceh/)
-
-3. **CompTIA Security+ Certification**
-   - Duration: 6 weeks
-   - **Platform**: [CompTIA Security+ Training](https://www.comptia.org/certifications/security)
-
-4. **Incident Response & Handling**
-   - Duration: 3 weeks
-   - **Platform**: [Cybrary - Incident Response](https://www.cybrary.it/course/incident-response-and-handling/)
-
-5. **Network Security Fundamentals**
-   - Duration: 5 weeks
-   - **Platform**: [edX - Network Security](https://www.edx.org/course/network-security)
-
-6. **Cloud Security**
-   - Duration: 4 weeks
-   - **Platform**: [Cloud Security Alliance - Cloud Security Training](https://cloudsecurityalliance.org/education/training/)
-
----
-
-### 🔍 Further Study Resources
-
-- **Books**: 
-  - *“The Web Application Hacker's Handbook”* by Dafydd Stuttard and Marcus Pinto
-  - *“Cybersecurity Essentials”* by Charles J. Brooks
-  - *“Hacking: The Art of Exploitation”* by Jon Erickson
-  - *“Blue Team Handbook: Incident Response Edition”* by Don Murdoch
-  - *“Metasploit: The Penetration Tester's Guide”* by David Kennedy et al.
-  - *“The Cybersecurity Playbook”* by Allison Cerra
-
-- **Podcasts**: 
-  - [CyberWire Daily](https://thecyberwire.com/podcasts/daily-briefing/)
-  - [Darknet Diaries](https://darknetdiaries.com/)
-  - [The Security Ledger](https://securityledger.com/)
-  - [Security Now](https://www.grc.com/securitynow.htm)
-  - [Risky Business](https://risky.business/)
-
-- **YouTube Channels**: 
-  - [Professor Messer](https://www.youtube.com/user/professormesser)
-  - [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
-  - [Hak5](https://www.youtube.com/user/Hak5Darren)
-  - [CyberMentor](https://www.youtube.com/c/TheCyberMentor)
-  - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
-  - [IppSec](https://www.youtube.com/c/IppSec)
-
-- **Online Courses**: 
-  - [Udemy Cybersecurity Courses](https://www.udemy.com/courses/search/?q=cybersecurity)
-  - [Pluralsight Cybersecurity Path](https://www.pluralsight.com/paths/cybersecurity)
-  - [Coursera Cybersecurity Specializations](https://www.coursera.org/browse/information-technology/cybersecurity)
-
-- **Websites and Blogs**: 
-  - [Krebs on Security](https://krebsonsecurity.com/)
-  - [Schneier on Security](https://www.schneier.com/)
-  - [Security Weekly](https://securityweekly.com/)
 
 ---
 
