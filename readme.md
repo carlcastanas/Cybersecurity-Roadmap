@@ -367,8 +367,6 @@ Here are some essential tips and resources to land your first cybersecurity job!
 
 ## 📅 6-Month Cybersecurity Roadmap
 
-> **Note:** This roadmap is a flexible guide. Feel free to adjust the focus areas and activities based on your career goals, interests, and prior knowledge. Everyone's journey in cybersecurity is unique!
-
 | Month      | Focus Area                   | Activity                                            | Study Resource Links                                          |
 |------------|------------------------------|-----------------------------------------------------|--------------------------------------------------------------|
 | **Month 1**    | **Fundamentals of Networking** | Read about networking basics                         | [Cisco Networking Basics](https://www.cisco.com/c/en/us/training-events/training-certifications/training-certifications/what-is-networking.html) |
@@ -390,6 +388,8 @@ Here are some essential tips and resources to land your first cybersecurity job!
 |            |                              | Network with professionals on LinkedIn              | [LinkedIn](https://www.linkedin.com)                         |
 |            |                              | Participate in community forums                      | [r/cybersecurity on Reddit](https://www.reddit.com/r/cybersecurity/) |
 |            |                              | Review the week’s learning and reflect on progress   |                                                              |
+
+> **Note:** This roadmap is a flexible guide. Feel free to adjust the focus areas and activities based on your career goals, interests, and prior knowledge. Everyone's journey in cybersecurity is unique!
 
 ---
 
