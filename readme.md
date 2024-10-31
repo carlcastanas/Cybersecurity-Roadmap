@@ -255,6 +255,15 @@ Cybersecurity certifications can boost your credibility, help you gain in-depth 
 - **Certified Ethical Hacker (CEH)**  
   [CEH Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
+- **CompTIA Cybersecurity Analyst (CySA+)**  
+  [CySA+ Certification](https://www.comptia.org/certifications/cybersecurity-analyst)
+
+- **Certified Information Systems Auditor (CISA)**  
+  [CISA Certification](https://www.isaca.org/credentialing/cisa)
+
+- **Certified Network Defender (CND)**  
+  [CND Certification](https://www.eccouncil.org/programs/certified-network-defender-cnd/)
+
 ### Upskilling Certifications
 
 - **Certified Cloud Security Professional (CCSP)**  
@@ -265,6 +274,15 @@ Cybersecurity certifications can boost your credibility, help you gain in-depth 
 
 - **Certified Incident Handler (GCIH)**  
   [GCIH Certification](https://www.giac.org/certification/certified-incident-handler-gcih)
+
+- **Offensive Security Certified Professional (OSCP)**  
+  [OSCP Certification](https://www.offensive-security.com/pwk-oscp/)
+
+- **GIAC Security Expert (GSE)**  
+  [GSE Certification](https://www.giac.org/certification/security-expert-gse)
+
+- **Certified Risk and Information Systems Control (CRISC)**  
+  [CRISC Certification](https://www.isaca.org/credentialing/crisc)
 
 ---
 
