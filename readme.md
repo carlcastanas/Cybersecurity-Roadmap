@@ -20,7 +20,7 @@ Welcome to the **Cybersecurity Roadmap**! 🎉 This guide is designed to help yo
 8. [🔐 Improving Cybersecurity Skills](#-improving-cybersecurity-skills)
 9. [💼 Finding a Job](#-finding-a-job)
 10. [📜 Certifications](#-certifications)
-11. [📅 Weekly Study Schedule](#-weekly-study-schedule)
+11. [📅 6 Month Cybersecurity Roadmap](#-6-month-cybersecurity-roadmap)
 
 ---
 
@@ -365,7 +365,7 @@ Here are some essential tips and resources to land your first cybersecurity job!
 
 ---
 
-## 📅 6-Month Cybersecurity Roadmap
+## 📅 6 Month Cybersecurity Roadmap
 
 | Month      | Focus Area                   | Activity                                            | Study Resource Links                                          |
 |------------|------------------------------|-----------------------------------------------------|--------------------------------------------------------------|
