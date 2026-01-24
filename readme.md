@@ -182,6 +182,10 @@ Get hands-on with cybersecurity tools and labs. Practical experience is key to u
 
 - **Red Teaming Toolkit** 🛠️  
   [Red Team Tools](https://github.com/RedTeam-Tools/Red-Team-Toolkit)  
+
+- **NullSec Linux** 🐧  
+  [NullSec Linux](https://github.com/bad-antics/nullsec-linux)  
+  Security-focused Linux distribution with 135+ pre-configured tools for penetration testing, automotive security, and hardware hacking.
   A compilation of open-source tools and resources to simulate real-world cyberattacks and improve defensive strategies.
 
 - **SANS Cyber Aces** 🎓  
